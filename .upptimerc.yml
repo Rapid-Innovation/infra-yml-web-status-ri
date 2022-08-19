@@ -10,7 +10,7 @@ sites:
   - name: slabs-frontend
     url: https://thewearableinternet.com
   - name: slabs-backend
-    url: https://api.thewearableinternet.com
+    url: https://api.thewearableinternet.com/api/v1/health
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
