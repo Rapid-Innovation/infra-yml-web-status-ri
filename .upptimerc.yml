@@ -14,8 +14,6 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  publish: true
-  apiBaseUrl: https://api.github.com
   cname: uptime.dev.rapidinnovation.tech
   logoUrl: https://uploads-ssl.webflow.com/60c92ce167b91f55c48259ca/60e883fa2ffc2286619f0430_RapidInnovationsLogo.svg
   name: Web-Status
