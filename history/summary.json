@@ -40,18 +40,19 @@
     "url": "https://thewearableinternet.com",
     "icon": "https://favicons.githubusercontent.com/thewearableinternet.com",
     "slug": "slabs-frontend",
-    "status": "up",
-    "uptime": "97.03%",
+    "status": "down",
+    "uptime": "97.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptimeMonth": "97.05%",
+    "uptimeYear": "97.05%",
     "time": 472,
     "timeDay": 1498,
     "timeWeek": 762,
     "timeMonth": 472,
     "timeYear": 472,
     "dailyMinutesDown": {
+      "2022-09-15": 0,
       "2022-08-31": 497,
       "2022-08-30": 637
     }
