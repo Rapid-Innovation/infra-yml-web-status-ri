@@ -22,19 +22,19 @@
     "url": "https://api.flush.com",
     "icon": "https://favicons.githubusercontent.com/api.flush.com",
     "slug": "flush-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 184,
-    "timeWeek": 224,
-    "timeMonth": 189,
-    "timeYear": 189,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 192,
+    "timeDay": 211,
+    "timeWeek": 233,
+    "timeMonth": 192,
+    "timeYear": 192,
     "dailyMinutesDown": {
-      "2022-09-16": 0
+      "2022-09-16": 9
     }
   },
   {
